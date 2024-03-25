@@ -1,0 +1,2 @@
+,np.tanh(std_delta_len),instruction_difficulty,not_gamed_baseline.astype(float)
+mistral-orpo-mix,-1.1811037494820524,0.4967123216995736,-2.3062689215357879
